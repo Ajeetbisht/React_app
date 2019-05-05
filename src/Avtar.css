@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+.mainpage{
+	width: 90%;
+	height: 100vh;
+	margin: auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.mainpage h1{
+	margin: 0;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.avatarstyle img{
+	width: 200px;
+	height: 200px;
+}
+
+.butt{
+	color: aqua;
+	background: yellow;
+	height: 40px;
+	width: 200px;
+}
